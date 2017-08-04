@@ -1,0 +1,15 @@
+.svn/*
+.apt_generated/*
+.classpath
+.mymetadata
+.project
+.settings/*
+target/*
+./myeclipse
+release.properties
+.factorypath
+.tern-project
+/target/
+src/main/resources/GeoLite2-City.mmdb
+WeaverBO.iml
+.idea/*
